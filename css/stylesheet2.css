@@ -1,0 +1,43 @@
+body{
+    background-image: url(b2ap3_large_quran_peace.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 1460px;
+
+}
+
+.container{
+    color: #A3E4D7;
+    padding: 50px 500px;
+    text-align: justify;
+    text-justify: inter-word;
+    color: #A3E4D7;
+    padding: 50px 100px;
+    text-align: justify;
+    text-justify: inter-word
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.qqq{
+    padding: 3% 8%;
+}
+.a123{
+    margin: auto;
+    width: 50%;
+    border: 0px solid green;
+    padding: 10px;
+}
+
+.about{
+    font-family: 'Sacramento', cursive;
+    padding-bottom: 50px;
+}
